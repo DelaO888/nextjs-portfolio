@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import youtube from "@/public/youtube.png";
-import toDoList from "@/public/toDoList.png";
+import toDoList from "@/public/todolist.png";
 import calculator from "@/public/calc.png";
 
 export const links = [
