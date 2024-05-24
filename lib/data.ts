@@ -37,7 +37,8 @@ export const experiencesData = [
   {
     title: "Graduated from Instituto Tecnologico de Toluca",
     location: "Toluca, Mexico",
-    description: "I graduated after 6 years of studying.",
+    description:
+      "I graduated after 6 years of studying a degree in Computer Science.",
     icon: React.createElement(LuGraduationCap),
     date: "2017 - 2022",
   },
