@@ -66,7 +66,7 @@ export const projectsData = [
       "Simple ToDo List applying React fundamentals and Zustand for state management",
     tags: ["HTML", "CSS", "JavaScript", "React", "Zustand", "NPM"],
     imageUrl: toDoList,
-    pageUrl: "https://conmutadornube.azurewebsites.net/",
+    pageUrl: "https://context-to-do-list.vercel.app/",
   },
   {
     title: "Youtube Clone",
